@@ -3,8 +3,8 @@ course_name: "AI Cofounder: A Startup Builder's Guide"
 course_description: "AI Cofounder: A Startup Builder's Guide is a 13-week, project-based course for technically inclined individuals who are interested in launching startups, particularly those centered on or enabled by AI. This course is specifically designed for students who envision themselves as the AI cofounder, the person responsible for leading the AI or technical direction of a venture. The targeted startup is an AI-oriented or AI-related venture, and students will be expected to leverage AI to design solutions, drive innovation, and accelerate the development and growth of a future venture. The course previews a practical framework for ideating, building, leading, and scaling a technology startup, following the real-world journey from initial idea through market validation and fundraising preparation. It is especially relevant for technical leaders who want to extend their business savvy, and who aim to create venture-scale value with AI. As AI technologies continue to evolve rapidly, the course will adapt in real-time to market conditions and technology news, ensuring students are working with the most current tools or technology, mental models, and data."
 course_semester: "Spring 2026"
 
-baseurl: "/cs11787" # the subpath of your site, e.g. /blog/
-url: "https://www.cs.cmu.edu/~11787-AI-Cofounder/" # the base hostname & protocol for your site
+baseurl: "https://cs.cmu.edu" # the subpath of your site, e.g. /blog/
+url: "/~11787-AI-Cofounder/" # the base hostname & protocol for your site
 
 schoolname: "CMU"
 schoolurl: "https://www.cs.cmu.edu/"
