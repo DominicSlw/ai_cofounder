@@ -4,7 +4,7 @@ course_description: "AI Cofounder: A Startup Builder's Guide is a 13-week, proje
 course_semester: "Spring 2026"
 
 baseurl: "/cs11787" # the subpath of your site, e.g. /blog/
-url: "http://DominicSlw.github.io/" # the base hostname & protocol for your site
+url: "https://www.cs.cmu.edu/~11787-AI-Cofounder/" # the base hostname & protocol for your site
 
 schoolname: "CMU"
 schoolurl: "https://www.cs.cmu.edu/"
